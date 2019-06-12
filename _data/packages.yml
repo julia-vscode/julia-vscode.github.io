@@ -1,0 +1,15 @@
+- name: CSTParser
+  appveyorname: cstparser-jl
+  appveyorid: bb98xaellx170wct
+- name: DocumentFormat
+  appveyorname: documentformat-jl
+  appveyorid: o2ym2yk5b3doankw
+- name: LanguageServer
+  appveyorname: languageserver-jl
+  appveyorid: th55ie5cg9ixkypj
+- name: StaticLint
+  appveyorname: staticlint-jl
+  appveyorid: 9excwyfca3s2jpvy
+- name: SymbolServer
+  appveyorname: symbolserver-jl
+  appveyorid: w8e8hru20r5f5ra2
