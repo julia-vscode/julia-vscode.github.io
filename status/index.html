@@ -9,7 +9,6 @@ description: Status of various Julia VS Code packages
         <tr class="header">
             <th>Package</th>
             <th>Travis</th>
-            <th>AppVeyor</th>
             <th>Codecov</th>
         </tr>
     </thead>
@@ -20,9 +19,6 @@ description: Status of various Julia VS Code packages
             <td><a href="https://travis-ci.org/julia-vscode/{{ package.name }}.jl"><img
                         src="https://travis-ci.org/julia-vscode/{{ package.name }}.jl.svg?branch=master"
                         alt="Build Status" /></a></td>
-            <td><a href="https://ci.appveyor.com/project/julia-vscode/{{ package.appveyorname }}/branch/master"><img
-                        src="https://ci.appveyor.com/api/projects/status/{{ package.appveyorid }}/branch/master?svg=true"
-                        alt="Build status" /></a></td>
             <td><a href="https://codecov.io/gh/julia-vscode/{{ package.name }}.jl"><img
                         src="https://codecov.io/gh/julia-vscode/{{ package.name }}.jl/branch/master/graph/badge.svg"
                         alt="codecov" /></a></td>
