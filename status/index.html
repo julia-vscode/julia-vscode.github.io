@@ -16,8 +16,8 @@ description: Status of various Julia VS Code packages
         {% for package in site.data.packages %}
         <tr>
             <td><a href="https://github.com/julia-vscode/{{ package.name }}.jl/">{{ package.name }}.jl</a></td>
-            <td><a href="https://travis-ci.org/julia-vscode/{{ package.name }}.jl"><img
-                        src="https://travis-ci.org/julia-vscode/{{ package.name }}.jl.svg?branch=master"
+            <td><a href="https://github.com/julia-vscode/{{ package.name }}.jl/actions?query=workflow%3A%22Run+CI+on+master%22"><img
+                        src="https://github.com/julia-vscode/{{ package.name }}.jl/workflows/Run%20CI%20on%20master/badge.svg"
                         alt="Build Status" /></a></td>
             <td><a href="https://codecov.io/gh/julia-vscode/{{ package.name }}.jl"><img
                         src="https://codecov.io/gh/julia-vscode/{{ package.name }}.jl/branch/master/graph/badge.svg"
