@@ -10,7 +10,7 @@ Welcome to the homepage for the [Julia extension for Visual Studio Code](https:/
 
 ## Documentation
 
-The documentation for the extension can be found [here](/docs/dev/).
+The documentation for the extension can be found [here](/docs/stable/).
 
 ## Support
 
