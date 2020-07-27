@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://junolab.org/about/about/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junolab.org/post/first/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junolab.org/post/second/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junolab.org/post/third/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junolab.org/about/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junolab.org/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junolab.org/post/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://junolab.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://junolab.org/tags/</loc>
+  </url>
+  
+</urlset>
