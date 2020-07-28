@@ -270,3 +270,31 @@ p.copyright {
 .justify-content-center {
     justify-content: center;
 }
+
+a {
+    color: #df691a;
+    text-decoration: none;
+}
+a:hover {
+    color: #df691a;
+    text-decoration: underline;
+}
+
+.section-heading-spacer-full {
+    float: left;
+    width: 100%;
+    border-top: 3px solid #e7e7e7;
+}
+
+.table {
+    font-size: 1em!important;
+}
+
+.table a {
+    color: #df691a!important;
+    text-decoration: none!important;
+}
+.table a:hover {
+    color: #df691a!important;
+    text-decoration: underline!important;
+}

@@ -3,46 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://junolab.org/about/about/</loc>
+    <loc>https://www.julia-vscode.org/about/about/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junolab.org/post/first/</loc>
+    <loc>https://www.julia-vscode.org/post/first/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junolab.org/post/second/</loc>
+    <loc>https://www.julia-vscode.org/post/second/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junolab.org/post/third/</loc>
+    <loc>https://www.julia-vscode.org/post/third/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junolab.org/about/</loc>
+    <loc>https://www.julia-vscode.org/social/social/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junolab.org/</loc>
+    <loc>https://www.julia-vscode.org/about/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junolab.org/post/</loc>
+    <loc>https://www.julia-vscode.org/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junolab.org/categories/</loc>
+    <loc>https://www.julia-vscode.org/post/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://junolab.org/tags/</loc>
+    <loc>https://www.julia-vscode.org/social/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.julia-vscode.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.julia-vscode.org/tags/</loc>
   </url>
   
 </urlset>

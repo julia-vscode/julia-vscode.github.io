@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socials on Julia for VSCode</title>
+    <link>https://www.julia-vscode.org/social/</link>
+    <description>Recent content in Socials on Julia for VSCode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.julia-vscode.org/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Status</title>
+      <link>https://www.julia-vscode.org/social/social/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>https://www.julia-vscode.org/social/social/</guid>
+      <description>CI and codecov status</description>
+    </item>
+    
+  </channel>
+</rss>
