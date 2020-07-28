@@ -1,8 +1,0 @@
-- name: CSTParser
-- name: DocumentFormat
-- name: LanguageServer
-- name: JSONRPC
-- name: StaticLint
-- name: SymbolServer
-- name: DebugAdapter
-- name: ChromeProfileFormat

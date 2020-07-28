@@ -1,0 +1,300 @@
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    background-color: #26282c;
+}
+
+body {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#screenselector {
+    position: relative;
+    width: 75%;
+}
+
+#screenselector .buttons {
+    opacity: 0;
+}
+
+#screenselector:hover .buttons {
+    transition: opacity 0.2s;
+    opacity: 1;
+}
+
+.buttons {
+    margin: 0.3em;
+    margin-bottom: 1em;
+}
+
+.navbar-default {
+    background-color: #1d1f20;
+    font-weight: 700;
+}
+
+.navbar-right {
+    font-size: 1.2em;
+}
+
+.navbar-default .navbar-brand {
+    color: #df691a;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+.navbar-brand img {
+    height: 1em;
+}
+
+#services .row img {
+    box-shadow: 0 0 30px #171a1e;
+}
+
+.btn {
+    /* padding-top: 0;
+    padding-bottom: 0; */
+}
+
+.logo {
+    max-height: 8em;
+    margin-left:auto;
+    margin-right:0;
+}
+
+#image-overlay-container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
+
+.screenshot {
+    position: relative;
+    margin-bottom: 1em;
+    box-shadow: 0 0 30px #171a1e;
+}
+
+.screenshot img {
+    width: 100%;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    top: 5px;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    /* padding-bottom: 50px; */
+    text-align: center;
+    color: #f8f8f8;
+    /* background: url(../img/intro-bg.jpg) no-repeat center center; */
+    background-size: cover;
+}
+
+.intro-message {
+    color: #ebebeb;
+    position: relative;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    /* text-shadow: 2px 2px 3px rgba(0,0,0,0.6); */
+    font-size: 5em;
+}
+
+.intro-divider {
+    width: 300px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    margin-top: 0.5em;
+    margin-bottom: 0;
+}
+
+.intro-message h3 {
+    margin-top: 1em;
+    text-align: left;
+    /* text-shadow: 2px 2px 3px rgba(0,0,0,0.6); */
+}
+
+.intro-message h3 > span {
+    font-size: 1.5em;
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        /* padding-bottom: 15%; */
+    }
+
+    .logo {
+        margin: 0 auto;
+    }
+
+    .intro-header h3 {
+        text-align: center;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    #screenselector {
+        width: 100%;
+    }
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    /* background-color: #21252b; */
+}
+
+.content-section-b {
+    padding: 50px 0;
+    /* border-top: 1px solid #181a1f;
+    border-bottom: 1px solid #181a1f; */
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.contact {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/contact-bg.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.contact h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+
+.contact ul {
+    margin-bottom: 0;
+}
+
+.contact-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+
+@media(max-width:1199px) {
+    ul.contact-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .contact h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.contact-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.contact-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+footer {
+    padding: 50px 0;
+    background-color: #1d1f20;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+
+.flex {
+    display: flex;
+}
+.justify-content-center {
+    justify-content: center;
+}
+
+a {
+    color: #df691a;
+    text-decoration: none;
+}
+a:hover {
+    color: #df691a;
+    text-decoration: underline;
+}
+
+.section-heading-spacer-full {
+    float: left;
+    width: 100%;
+    border-top: 3px solid #e7e7e7;
+}
+
+.table {
+    font-size: 1em!important;
+}
+
+.table a {
+    color: #df691a!important;
+    text-decoration: none!important;
+}
+.table a:hover {
+    color: #df691a!important;
+    text-decoration: underline!important;
+}
