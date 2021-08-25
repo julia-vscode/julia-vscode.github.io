@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Socials on Julia for VSCode</title>
+    <title>Socials on Julia for VS Code</title>
     <link>https://www.julia-vscode.org/social/</link>
-    <description>Recent content in Socials on Julia for VSCode</description>
+    <description>Recent content in Socials on Julia for VS Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
