@@ -1,1 +1,1 @@
-# Homepage for the julia VS Code extension
+# Homepage for the Julia Visual Studio Code extension
