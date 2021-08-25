@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Julia for VSCode</title>
+    <title>Julia for VS Code</title>
     <link>https://www.julia-vscode.org/</link>
-    <description>Recent content on Julia for VSCode</description>
+    <description>Recent content on Julia for VS Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Julia for VSCode is a powerful, free IDE for the Julia language.</title>
+      <title>Julia for VS Code is a powerful, free IDE for the Julia language.</title>
       <link>https://www.julia-vscode.org/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
@@ -35,7 +35,7 @@
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
       <guid>https://www.julia-vscode.org/post/second/</guid>
-      <description>With a completely live environment, Julia for VSCode aims to take the frustration and guesswork out of programming and put the fun back in. A hybrid &amp;ldquo;canvas programming&amp;rdquo; style combines the exploratory power of a notebook with the productivity and static analysis features of an IDE.</description>
+      <description>With a completely live environment, Julia for VS Code aims to take the frustration and guesswork out of programming and put the fun back in. A hybrid &amp;ldquo;canvas programming&amp;rdquo; style combines the exploratory power of a notebook with the productivity and static analysis features of an IDE.</description>
     </item>
     
     <item>
