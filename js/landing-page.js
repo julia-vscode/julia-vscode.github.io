@@ -139,7 +139,7 @@ var items = {
         },
         {
             title: "Feature-complete on remote machines",
-            description: "All Juno features are available on remote machines, too; " +
+            description: "All features are available on remote machines, too; " +
                          "including the debugger and plotting.",
             position: {
                 left: 60,
